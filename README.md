@@ -3,7 +3,8 @@
 ## Usage
 
 ```zsh
-python3 a.py < input.txt
+python a.py < input.txt
+go run a.go < input.txt
 ```
 
 ## Attention
