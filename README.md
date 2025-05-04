@@ -3,7 +3,7 @@
 ## Usage
 
 ```zsh
-python a.py < input.txt
+# In the case of problem A
 go run a.go < input.txt
 ```
 
